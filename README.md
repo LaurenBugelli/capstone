@@ -22,7 +22,7 @@ Promotional and market based website
   # Task 2: UI and Backend Functionality
   Once the sign in/ log in functionality works a tetative task is to impliment personalized messages to the user. The overall goal of this task is to hook the user on the client's fishing line. These tasks will be used to endear the user to the client or spark interest in them for the client.
   * Signin - completed
-  * Login implimentations - ???
+  * Login implimentations - completed
   * Current Product Page - completed
   * ContactMe page - completed
  
@@ -33,6 +33,7 @@ Promotional and market based website
   # Task 3: Clean Up
   The store functionality will have a completed cart but will NOT have the ability to connect to anyone's finaces. A tentative task her would be to send the cart's contents to the client through an email. Another tentative phase will be to try and make all my pages responsive not only on a desktop but a mobile device as well.
   * Store Functionality - completed
+  * Log Out implimentations
   * Css for Forms
   * Portfolio Pages
   * Ui for Store
