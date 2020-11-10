@@ -31,7 +31,7 @@ Promotional and market based website
  Class Knowledge needed for this task: CS 222 web design, CS 110-111 java structures, CS 223 - Game Programming and Ai
   
   # Task 3: Clean Up
-  The store functionality will have a completed cart but will NOT have the ability to connect to anyone's finaces. A tentative task her would be to send the cart's contents to the client through an email. Another tentative phase will be to try and make all my pages responsive not only on a desktop but a mobile device as well.
+  The store functionality will have a completed cart but will NOT have the ability to connect to anyone's finaces. A tentative task here would be to send the cart's contents to the client through an email. Another tentative phase will be to try and make all my pages responsive not only on a desktop but a mobile device as well.
   * Store Functionality - completed
   * Log Out implimentations
   * Css for Forms
