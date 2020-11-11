@@ -37,6 +37,9 @@ Promotional and market based website
   * Css for Forms - 1/3 
   * Portfolio Pages
   * Ui for Store
+  * Footers
+  * Photos
+  * Icons
   
   Coding Languages used: HTML, JS, Css, Php
  
