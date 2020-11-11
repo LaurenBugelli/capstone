@@ -2,13 +2,13 @@
 Promotional and market based website
 
 # Purpose
-  Create an online space where a client could promote themselves and their skill or serviced while also having a place for a small buisness. A user will be able to view the site and get an idea of who the client is as a person and their range of skills. The site will be heavy on the user interface aspects as it is trying to sell the client to the user and it is imperitive that the user has a fluid and enjoyable time exploring the site. A small store will be available, complete with cart functionality. User sign in and log in features will expose personalizerd aspects to the user to endear them to the client. Access to the store will become available after a user signs up with the client. Users will be directed to contact the client through email forms to hopefully begin talks on future projects.
+  Create an online space where a client could promote themselves and their skill or services while also having a place for a small buisness. A user will be able to view the site and become aquainted with the client and their skillset. The site will focus on user interface with the intention of marketing the client to the user. It is imperative that the user has a fluid and enjoyable experience exploring the site. A small store will be available, complete with cart functionality. /*User sign in and log in features will expose personalizerd aspects to the user to endear them to the client*/. Access to the store will become available after a user signs up with the client. Users will be directed to contact the client through email forms to encourage comunication on potential projects.
   
 # Tasks
-  I've broken this project up into three main catagories to complete over the 2020 fall semester. Since it was shortand I have some tentative features that may not make it into the final product. Each task will at least impliment aspects of HTML, Js, and php. Hack aspects will be files I code in HTML but save as php to impliment different php aspects within my html
+  I've broken this project up into three main catagories to complete over the 2020 fall semester. Since the semester was shortened, there are several tentative features that are planned, but may not be implemented into the final product. Each task will include aspects of HTML, Js, and php.
   
 # Task 1: First Impressions
-  Interactive and responsive Home Page. As this is the first page the user will see, professionalism and a clean product where the goals for this task.
+  Interactive and responsive Home Page. As this is the first page the user will see, professionalism and a clean product are, the goals for this task.
   * welcome banner - completed
   * About summary - completed
   * Portfolios displayed - completed
@@ -20,9 +20,9 @@ Promotional and market based website
   Class Knowledge needed for this task: CS 222 - web design, and 2d design
   
   # Task 2: UI and Backend Functionality
-  Once the sign in/ log in functionality works a tetative task is to impliment personalized messages to the user. The overall goal of this task is to hook the user on the client's fishing line. These tasks will be used to endear the user to the client or spark interest in them for the client.
+  Once the sign in/ log in functionality works, a tentative task is to implement personalized messages to the user. The overall goal of this task is to hook the user on the client's fishing line. These tasks will be used to endear the user to the client or spark interest in them for the client.
   * Signin - completed
-  * Login implimentations - completed
+  * Login implementations - completed
   * Current Product Page - completed
   * ContactMe page - completed
  
@@ -31,9 +31,9 @@ Promotional and market based website
  Class Knowledge needed for this task: CS 222 web design, CS 110-111 java structures, CS 223 - Game Programming and Ai
   
   # Task 3: Clean Up
-  The store functionality will have a completed cart but will NOT have the ability to connect to anyone's finaces. A tentative task here would be to send the cart's contents to the client through an email. Another tentative phase will be to try and make all my pages responsive not only on a desktop but a mobile device as well.
+  The store functionality will have a completed cart but will NOT have the ability to connect to anyone's finances. A tentative task here would be to send the cart's contents to the client through an email. Another tentative task will be to try and make all my pages responsive not only on a desktop but a mobile device as well.
   * Store Functionality - completed
-  * Log Out implimentations - completed
+  * Log Out implementations - completed
   * Css for Forms - 1/3 
   * Portfolio Pages
   * Ui for Store
