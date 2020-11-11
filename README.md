@@ -33,8 +33,8 @@ Promotional and market based website
   # Task 3: Clean Up
   The store functionality will have a completed cart but will NOT have the ability to connect to anyone's finaces. A tentative task here would be to send the cart's contents to the client through an email. Another tentative phase will be to try and make all my pages responsive not only on a desktop but a mobile device as well.
   * Store Functionality - completed
-  * Log Out implimentations
-  * Css for Forms
+  * Log Out implimentations - completed
+  * Css for Forms - 1/3 
   * Portfolio Pages
   * Ui for Store
   
