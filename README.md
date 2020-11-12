@@ -34,12 +34,12 @@ Promotional and market based website
   The store functionality will have a completed cart but will NOT have the ability to connect to anyone's finances. A tentative task here would be to send the cart's contents to the client through an email. Another tentative task will be to try and make all my pages responsive, not only on a desktop, but on a mobile device as well.
   * Store Functionality - completed
   * Log Out implementations - completed
-  * Css for Forms - 1/3 
+  * Css for Forms - 2/3 
   * Portfolio Pages
   * Ui for Store
-  * Footers
+  * Footers - completed
   * Photos
-  * Icons
+  * Icons - 3/4
   
   Coding Languages used: HTML, JS, Css, Php
  
