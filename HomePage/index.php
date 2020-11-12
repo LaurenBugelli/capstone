@@ -5,9 +5,20 @@
   <div class="banner">
     <img src="http://laurenbugelli.com/Imgs/homePhoto.jpg">
     <div class="content">
+      <?php
+        if(isset($_SESSION["useruid"])){
+          echo "  <h2>Hello, " . $_SESSION["useruid"] . ", </h2>";
+          echo "<p>Thank you for loging in and welcome, this is a page about...</p>";
+        }
+       ?>
       <h2>Lauren Bugelli</h2>
+      <?php
+        if(isset($_SESSION["useruid"])){
+          echo "<p>Who is...</p>";
+        }
+       ?>
       <p>Currently finishing her final semester at the University of Redlands,
-        Lauren is an amature artist who is excited to leave her mark on the world.
+        Lauren is an amateure artist who is excited to leave her mark on the world.
         Or better yet, your living room.</p>
     </div>
   </div>
@@ -18,8 +29,8 @@
 
   <div class="contentBx">
     <h2 class="heading">About The Artist</h2>
-    <p class="text">Lauren is a 25 year old student, who serves and bartends in her small town.<br><br>Today she is pursuing a degree in Computer Science, merging her two loves. Computers, and art.
-      She hopes to one day support herself with her passion of creativity through web design.
+    <p class="text">Lauren is a 25 year old student, who serves and bartends in her small town.<br><br>Today she is pursuing a degree in Computer Science, merging her two loves: computers and art.
+      She hopes to one day support herself with her passion for creativity through web design.
     </p>
   </div>
   <div class="galleryBx">
@@ -33,7 +44,7 @@
   <!-- PORTFOLIO AREA -->
   <section id = "portfolio" class="portfolio">
     <h2 class="heading">Portfolios</h2>
-    <p class= "text">Check out Lauren's portolios, you may see something you are interested in.</p>
+    <p class= "text">Check out Lauren's portolios! You may see something you are interested in.</p>
     <div class ="container">
       <div class= "portfolioBx">
         <div>
@@ -64,7 +75,17 @@
     </div>
     <div class = "iconBx">
       <a style=text-decoration:none href="http://instagram.com">
-        <img src = "http://laurenbugelli.com/Imgs/toggle.png">
+        <img src = "http://laurenbugelli.com/Imgs/insta.png">
+      </a>
+    </div>
+    <div class = "iconBx">
+      <a style=text-decoration:none href="http://facebook.com">
+        <img src = "http://laurenbugelli.com/Imgs/facebook.png">
+      </a>
+    </div>
+    <div class = "iconBx">
+      <a style=text-decoration:none href="http://linkedin.com">
+        <img src = "http://laurenbugelli.com/Imgs/linkIn.png">
       </a>
     </div>
   </section>
