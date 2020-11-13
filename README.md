@@ -36,7 +36,7 @@ Promotional and market based website
   * Log Out implementations - completed
   * Css for Forms - completed 
   * Portfolio Pages
-  * Ui for Store
+  * Ui for Store - completed
   * Footers - completed
   * Photos
   * Icons - completed
