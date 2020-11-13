@@ -26,7 +26,7 @@ Promotional and market based website
   * Current Product Page - completed
   * ContactMe page - completed
  
- Coding Languages used: HTML, JS, Css, Php, Msquli
+ Coding Languages used: HTML, JS, Css, Php, Mysquli
  
  Class Knowledge needed for this task: CS 222 web design, CS 110-111 java structures, CS 223 - Game Programming and Ai
   
@@ -41,6 +41,6 @@ Promotional and market based website
   * Photos
   * Icons - completed
   
-  Coding Languages used: HTML, JS, Css, Php
+  Coding Languages used: HTML, JS, Css, Php, Mysquli
  
  Class Knowledge needed for this task: CS 222 web design, CS 110-111 java structures, CS 223 - Game Programming and Ai
