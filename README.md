@@ -35,11 +35,12 @@ Promotional and market based website
   * Store Functionality - completed
   * Log Out implementations - completed
   * Css for Forms - completed 
-  * Portfolio Pages
+  * Portfolio Pages - 0/3
   * Ui for Store - completed
   * Footers - completed
   * Photos
   * Icons - completed
+  * Comment Section - completed
   
   Coding Languages used: HTML, JS, Css, Php, Mysquli
  
