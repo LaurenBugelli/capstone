@@ -30,7 +30,7 @@ Promotional and market based website
  
  Class Knowledge needed for this task: CS 222 web design, CS 110-111 java structures, CS 223 - Game Programming and Ai
   
-  # Task 3: Clean Up
+  # Task 3: Pages for Days
   The store functionality will have a completed cart but will NOT have the ability to connect to anyone's finances. A tentative task here would be to send the cart's contents to the client through an email. Another tentative task will be to try and make all my pages responsive, not only on a desktop, but on a mobile device as well.
   * Store Functionality - completed
   * Log Out implementations - completed
@@ -41,6 +41,7 @@ Promotional and market based website
   * Photos
   * Icons - completed
   * Comment Section - completed
+  * Clean Up
   
   Coding Languages used: HTML, JS, Css, Php, Mysquli
  
