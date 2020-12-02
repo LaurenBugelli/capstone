@@ -17,9 +17,13 @@
 
     </section>
 <!-- Comment Section -->
-
     <section class = "comment-section">
       <div class="comContainer">
+        <div class="comTitleBox">
+          <h2>Start a Conversation with the Community</h2>
+          <p>Want to talk about a product or just talk about what inspires or motivates you to be creative?
+            Think about leaving a review or a comment to fellow like minded people below...</p>
+        </div>
         <div class="comForm">
           <?php
           $user = "";
@@ -42,5 +46,7 @@
       </div>
     </section>
 
-  </body>
-</html>
+
+<?php
+  include_once 'footer.php';
+ ?>
