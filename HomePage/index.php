@@ -18,7 +18,7 @@
         }
        ?>
       <p>Currently finishing her final semester at the University of Redlands,
-        Lauren is an amateure artist who is excited to leave her mark on the world.
+        Lauren is an amateur artist who is excited to leave her mark on the world.
         Or better yet, your living room.</p>
     </div>
   </div>
@@ -48,19 +48,25 @@
     <div class ="container">
       <div class= "portfolioBx">
         <div>
-          <img src="http://laurenbugelli.com/Imgs/paintingGirl.jpg">
+          <a style="text-decoration:none" href = "http://laurenbugelli.com/php/paintPort.php">
+            <img src="http://laurenbugelli.com/Imgs/paintingGirl.jpg">
+          </a>
           <h2>Paintings</h2>
         </div>
       </div>
       <div class= "portfolioBx">
         <div>
-          <img src="http://laurenbugelli.com/Imgs/webDes.jpg">
+          <a style="text-decoration:none" href = "http://laurenbugelli.com/php/sketchPlusComment.php">
+            <img src="http://laurenbugelli.com/Imgs/webDes.jpg">
+          </a>
           <h2>Websites</h2>
         </div>
       </div>
       <div class= "portfolioBx">
         <div>
-          <img src="http://laurenbugelli.com/Imgs/sketch.jpg">
+          <a style="text-decoration:none" href = "http://laurenbugelli.com/php/sketchPlusComment.php">
+            <img src="http://laurenbugelli.com/Imgs/sketch.jpg">
+          </a>
           <h2>Sketch Book</h2>
         </div>
       </div>
@@ -75,7 +81,7 @@
     </div>
     <div class = "iconBx">
       <a style=text-decoration:none href="http://instagram.com">
-        <img src = "http://laurenbugelli.com/Imgs/insta.png">
+        <img src = "http://laurenbugelli.com/Imgs/instagram.png">
       </a>
     </div>
     <div class = "iconBx">
