@@ -8,6 +8,7 @@
   <meta charset="UTF-8">
   <title>Lauren Bugelli</title>
   <link rel = "stylesheet" href="http://laurenbugelli.com/Css/homeStyle.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 </head>
 <body>
   <!--header-->
@@ -26,22 +27,19 @@
 
             <?php
               if(isset($_SESSION["useruid"])){
-                echo "<li><a href='/php/signIn.php'>Cart/a></li>";
-                echo "<li><a href= '/php/logout'>Log out</a></li>";
+                echo "<li><a href='/Store/store.php'>Store</a></li>";
+                echo "<li><a href= '/php/logOut-inc.php'>Log out</a></li>";
               }else{
                 echo "<li><a href='/php/signIn.php'>Sign Up</a></li>";
                 echo "<li><a href= '/php/logIn.php'>Login</a></li>";
               }
              ?>
 
-             <!--
-            <li><a href="http://laurenbugelli.com/php/signIn.php" data-after="Sign in">Sign in</a></li>
-            <li><a href="http://laurenbugelli.com/php/logIn.php" data-after="Sign in">Login</a></li>
-          -->
             <li><a href="#about" data-after="About">About</a></li>
             <li><a href="#portfolio" data-after="Portfolios">Portfolios</a></li>
-            <li><a a href="http://laurenbugelli.com/ContactMe/contactMe.php" data-after="Contact">Contact</a></li>
-            <li><a a href="http://laurenbugelli.com/Store/store.php" data-after="Store">Contact</a></li>
+            <li><a a href="http://laurenbugelli.com/ContactMe/contactMe2.php" data-after="Contact">Contact</a></li>
+          <!--  <li><a a href="http://laurenbugelli.com/Store/store.php" data-after="Store">Store</a></li>
+          -->
           </ul>
         </div>
       </div>
