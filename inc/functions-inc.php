@@ -92,21 +92,22 @@ function emptyInputLogin($username, $pass){
     }
     return $results;
 }
-function loginUser($username, $pass, $connection){
-  $uidExists = usernameExists($connection, $username, $username);
+function loginUser($connection, $username, $pass){
+  $uidExists = usernameExists($connection, $username, $username); //check if username exists in the database already
 
   //error handler
   if($uidExists === false){
     header("location: /php/logIn.php?error=wronglogin");
     exit();
   }
-  $hashPass = $uidExists["usersPass"];
+  //variables to check hashed pass matches user input
+  $hashPass = $uidExists["usersPass"]; //php doesnt use index notations, that is why we call the "usersPass" collumn name instead
   $checkPass = password_verify($pass, $hashPass);
 
-  if($checkPass === false){
+  if($checkPass === false){ //if false than passwords are not the same
     header("location: /php/logIn.php?error=wronglogin");
     exit();
-  }else if ($checkPass === true){
+  }else if ($checkPass === true){ //if true log in user
     session_start();
     $_SESSION["userid"] = $uidExists["usersId"];
     $_SESSION["useruid"] = $uidExists["usersUid"];
