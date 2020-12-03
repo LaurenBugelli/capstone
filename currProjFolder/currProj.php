@@ -1,3 +1,6 @@
+<?php
+  session_start();
+ ?>
 <!DOCTYPE html>
 <html lang = "en">
   <head>
@@ -28,7 +31,7 @@
     <div class="slider"></div>
     <div class = "contact">
       <a style=text-decoration:none href="http://laurenbugelli.com/ContactMe/contactMe.php">
-        <h1 class>Like What You See?</h1>
+        <h1 class>Why not contact the artist?</h1>
       </a>
     </div>
 
